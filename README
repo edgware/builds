@@ -1,2 +1,4 @@
-Builds will be posted soon.
+Builds
+
+Note: it is important to choose the appropriate file for your system, .zip for Windows or .gzip for Linux, to ensure that file permissions are set correctly when the file is unpacked.
 
