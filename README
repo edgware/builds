@@ -2,3 +2,15 @@ Builds
 
 Note: it is important to choose the appropriate file for your system, .zip for Windows or .gzip for Linux, to ensure that file permissions are set correctly when the file is unpacked.
 
+edgware-0.4.0.v20140917-1050:
+
+- initial release
+
+edgware-0.4.0.v20141121-1239:
+
+- Distributed Registry command line interface
+- Auto-subscribe to new feeds matching patterns
+- Distributed registry triggers
+- Java API re-structuring
+- Performance improvements
+- Defect fixes
