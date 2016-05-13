@@ -2,9 +2,19 @@ Builds
 
 Note: it is important to choose the appropriate file for your system, .zip for Windows or .gzip for Linux, to ensure that file permissions are set correctly when the file is unpacked.
 
-edgware-0.4.0.v20140917-1050:
+edgware-0.4.1.v20160513-1159:
 
-- initial release
+- Improved handling of network topology changes (restoration of service wiring).
+- Additional Web tools, including dynamic topology and service wiring visualization.
+- Switch to the Gaian Database implementation of the distributed service registry.
+- Support for auto-start services.
+- Support for persistent Registry entries (i.e. information can be selectively retained between restarts).
+- Fabric scripting tool (development/test support).
+- Fixes to Registry query APIs.
+- Fixes to Fabric scripts for cross-platform support.
+- Refinements to the on-the-bus XML wire-protocol.
+- Minor performance improvements.
+- Updated open source components.
 
 edgware-0.4.0.v20141121-1239:
 
@@ -14,3 +24,7 @@ edgware-0.4.0.v20141121-1239:
 - Java API re-structuring
 - Performance improvements
 - Defect fixes
+
+edgware-0.4.0.v20140917-1050:
+
+- initial release
