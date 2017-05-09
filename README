@@ -2,6 +2,11 @@ Builds
 
 Note: it is important to choose the appropriate file for your system, .zip for Windows or .gzip for Linux, to ensure that file permissions are set correctly when the file is unpacked.
 
+edgware-0.4.2.v20170509-1646:
+
+- Additional logging.
+- Minor defect fixes.
+
 edgware-0.4.1.v20160513-1159:
 
 - Improved handling of network topology changes (restoration of service wiring).
@@ -18,13 +23,13 @@ edgware-0.4.1.v20160513-1159:
 
 edgware-0.4.0.v20141121-1239:
 
-- Distributed Registry command line interface
-- Auto-subscribe to new feeds matching patterns
-- Distributed registry triggers
-- Java API re-structuring
-- Performance improvements
-- Defect fixes
+- Distributed Registry command line interface.
+- Auto-subscribe to new feeds matching patterns.
+- Distributed registry triggers.
+- Java API re-structuring.
+- Performance improvements.
+- Defect fixes.
 
 edgware-0.4.0.v20140917-1050:
 
-- initial release
+- Initial release.
